@@ -1,0 +1,90 @@
+.up{
+  background-color: black;
+  color: black;
+  padding: 0.15rem;
+}
+
+/* NAVBAR */
+
+.navbar{
+  background: rgba(0,0,0,0.8);
+  position: fixed;
+}
+.nav-items{
+  margin: 0 25rem;
+}
+.nav-item{
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.logo{
+  padding-left: 20rem;
+}
+
+/* PARAGRAPH */
+.shop{
+  text-align: center;
+  font-size: 14px;
+  color: #1d1d1f;
+  padding-top: 0.5rem;
+
+}
+
+/* IPHONE12 */
+
+#iphone12{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.iphoneheadline{
+  font-size: 3.25rem;
+  font-weight: bold;
+  padding-top: 2.5rem;
+}
+
+.price{
+  color: #86868b;
+}
+
+.buy{
+  padding-left: 2rem;
+}
+
+.iphone{
+  height: 450px;
+  width: auto;
+}
+
+#iphone2{
+  text-align: center;
+}
+.iPhone-img{
+  padding-top: 2rem;
+  width: 650px;
+  height: auto;
+}
+
+/* MACBOOK */
+
+#macbook{
+  margin-top: 0.5rem;
+  background-color: black;
+  text-align: center;
+}
+.headline{
+  color: white;
+  padding-top: 2.5rem;
+  font-weight: bold;
+  font-size: 3.5rem;
+}
+
+.macpara{
+  color: white;
+}
+
+.mac-img{
+  padding-top: 7rem;
+  width:1200px;
+
+}
